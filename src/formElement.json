@@ -1,0 +1,36 @@
+[
+    {
+        "header": "Name",
+        "form": [
+            {
+                "id": "fname",
+                "text": "First Name",
+                "field_placeholder": "Enter name",
+                "type": "text"
+            },
+            {
+                "id": "lname",
+                "text": "Last Name",
+                "field_placeholder": "Enter email",
+                "type": "text"
+            }
+        ]        
+    },
+    {
+        "header": "Address",
+        "form": [
+            {
+                "id": "street",
+                "text": "Street 1",
+                "field_placeholder": "My Street",
+                "type": "text"
+            },
+            {
+                "id": "zip",
+                "text": "Zip",
+                "field_placeholder": "90210",
+                "type": "number"
+            }
+        ]        
+    }
+]
